@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "98997137479",
+    "project_id": "alison-grimaldi",
+    "storage_bucket": "alison-grimaldi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98997137479:android:140f906f823aeba9818162",
+        "android_client_info": {
+          "package_name": "com.alison.hipquest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98997137479-qrebma6q2bst635dr3ea2gih8qvsi5f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alison.hipquest",
+            "certificate_hash": "3b8899b600103ff61de098a731d5a9f6d5248ca0"
+          }
+        },
+        {
+          "client_id": "98997137479-vt61fiq1jr8i225ah3df31tfpk0cu1qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYSPr4UGhVwQysk8coBomu3z13YG8d1gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98997137479-vt61fiq1jr8i225ah3df31tfpk0cu1qs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "98997137479-6rodlmj0ustua7mq6pkkk9ql8thlka5h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alison.hipquest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

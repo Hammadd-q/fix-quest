@@ -1,0 +1,20 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude: [ build/** ]
+  language:
+    strict-raw-types: true
+  errors:
+    constant_identifier_names: error
+    #    prefer_const_constructors: error
+    unnecessary_this: error
+    prefer_final_fields: error
+    unnecessary_new: error
+    unnecessary_const: error
+    use_build_context_synchronously: false
+#    prefer_const_literals_to_create_immutables: error
+
+linter:
+  rules:
+    file_names: false
+    avoid_print: false
